@@ -10,7 +10,7 @@ Three different files are included in the dataset:
 * locations.json: includes a city/country mapping.
 * european_parliament.2014.txt: the captured tweets.
 
-### european_parliament.2014.txt format
+### european_parliament_2014.txt format
 
 The file is formatted with a tweet per line, each line with the following fields separated by commas:
 
