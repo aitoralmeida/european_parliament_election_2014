@@ -16,7 +16,7 @@ Four different files are included in the dataset:
 The file is formatted with a tweet per line, each line with the following fields separated by commas:
 
 ```
-tweet_id, username, md5_hash
+tweet_id, username, user_id, md5_hash
 ```
 
 The tweet_id and the username can be used to recover the tweet content, and the md5 hex hash to validate the tweet text. To comply with the Twitter TOS we do not provide the content ourselves.
