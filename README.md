@@ -3,7 +3,7 @@ This dataset contains the tweets for the campaign period (16th to 23th of April)
 
 The tweets were captured by following the mentions to a set of XXXX party Twitter accounts, selected based on the results of the previous election (check the parties.json file for a complete list of the political parties included in the study).
 
-## Format
+## Files
 
 Three different files are included in the dataset:
 * parties.json: contains information about the political parties taken into account (Party name, twitter id, location, european group)
