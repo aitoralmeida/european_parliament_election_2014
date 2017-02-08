@@ -25,7 +25,7 @@ The tweet_id and the username can be used to recover the tweet content, and the 
 
 Please, use the following reference if you use this dataset for your research:
 
-Aitor Almeida, Juan Sixto, Oscar Peña, Braulio Gomez, Guillem Martí 
+Aitor Almeida, Juan Sixto, Oscar Peña, Braulio Gomez, Guillem Martí. 
 Tweets for the campaign period of the 2014 European Parliament election. 
 URL: https://github.com/aitoralmeida/european_parliament_election_2014/
 
