@@ -1,7 +1,7 @@
 # Tweets for the campaign period of the 2014 European Parliament election
 This dataset contains the tweets for the campaign period (16th to 23th of April) of the 2014 European Parliament election (https://en.wikipedia.org/wiki/European_Parliament_election,_2014). 
 
-The tweets were captured by following the mentions to a set of XXXX party Twitter accounts, selected based on the results of the previous election (check the parties.json file for a complete list of the political parties included in the study).
+The tweets were captured by following the mentions to a set of party Twitter accounts, selected based on the results of the previous election (check the parties.json file for a complete list of the political parties included in the study). The dataset contais a total of 47,761 tweets.
 
 ## Files
 
