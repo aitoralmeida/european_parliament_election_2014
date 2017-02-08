@@ -8,7 +8,7 @@ The tweets were captured by following the mentions to a set of XXXX party Twitte
 Four different files are included in the dataset:
 * european_parliament.2014.txt: the captured tweets.
 * locations.json: includes a city/country mapping.
-* parties.json: contains information about the political parties taken into account (Party name, twitter id, location, european group)
+* parties.json: contains information about the political parties taken into account for the study (Party name, twitter id, location, european group)
 * parties_ids.json: includes a twitter id/party name mapping.
 
 ### european_parliament_2014.txt format
